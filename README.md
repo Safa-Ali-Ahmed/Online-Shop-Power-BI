@@ -14,6 +14,7 @@ It provides insights into **sales, revenue, customer behavior, and demographics*
 ---
 
 ## 📊 Key Features & Insights
+<img width="1281" height="723" alt="1" src="https://github.com/user-attachments/assets/bce9c2f6-6597-486d-971b-68ecc323b6a0" />
 
 ### 1. Sales Analysis
 - **Total Revenue:** $75.83K  
@@ -22,6 +23,7 @@ It provides insights into **sales, revenue, customer behavior, and demographics*
 - **Total Purchases:** 13K  
 - Revenue trends by **Month, Quarter, and Year (2021–2022)**  
 - Voucher impact on sales (Yes/No)  
+<img width="1280" height="720" alt="2" src="https://github.com/user-attachments/assets/22f0b9c8-e526-458e-b14e-70ad6c812093" />
 
 ### 2. Gender Insights
 - **Revenue by Gender:**  
@@ -47,6 +49,7 @@ It provides insights into **sales, revenue, customer behavior, and demographics*
   - Female: 69.88%  
   - Male: 30.12%  
 - Customer purchase frequency distribution  
+<img width="1278" height="711" alt="3" src="https://github.com/user-attachments/assets/1c936eca-ff14-4ccc-9a44-0db15c2eb8dc" />
 
 ---
 
